@@ -37,7 +37,7 @@ const Footer = () => {
                 <Github className="w-5 h-5" />
               </a>
               <a
-                href="https://www.linkedin.com/company/python-togo/"
+                href="https://www.linkedin.com/company/pythontogo/"
                 className="w-10 h-10 rounded-lg bg-secondary-foreground/10 flex items-center justify-center hover:bg-primary hover:text-primary-foreground transition-colors"
                 aria-label="LinkedIn"
               >
